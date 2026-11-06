@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Map/All/Bolt_Special4.png.meta
 guid: 4204c93673f20ea408d412c03bb0228a
+========
+guid: cb6dd139ec887204ba98f59c294186aa
+>>>>>>>> main:Sprite/DashFX/DashDust03.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Map/All/DashDust00.png.meta
 guid: d2051bca2bd3eb446b7d7719af40ca66
+========
+guid: db4c2746ffffa9d4a92fffe772c5b74a
+>>>>>>>> main:Sprite/DashFX/DashDust04.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
